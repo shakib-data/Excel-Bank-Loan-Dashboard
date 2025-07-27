@@ -11,7 +11,7 @@ This Excel project is a **Loan Data Analysis Dashboard** created to analyze fict
 - Dynamic dashboards using slicers and filters
 
 ## 📁 Files Included:
-- Excel Dashboard File (.xlsx)  
+- [📥 Download Excel Dashboard (2017 Order Data.xlsx)](https://github.com/shakib-data/Excel-Bank-Loan-Dashboard/raw/main/2017%20Order%20Data.xlsx)
 - Sample Images (`Capture1.png`, `Capture2.png`) for preview  
 
 ## 🖼️ Dashboard Preview:
@@ -21,9 +21,8 @@ This Excel project is a **Loan Data Analysis Dashboard** created to analyze fict
 - Microsoft Excel (Pivot Tables, Charts, Formulas)  
 - Data Cleaning & Analysis  
 - Dashboard Design
-- 
+
 ## 🔗 Connect with Me:
-- www.linkedin.com/in/
-shakib-malik-2a2b10197
- 
+- 🌐 [LinkedIn: shakib-malik-2a2b10197](https://www.linkedin.com/in/shakib-malik-2a2b10197)
 - 📧 Email: shakibroorkee@email.com
+
